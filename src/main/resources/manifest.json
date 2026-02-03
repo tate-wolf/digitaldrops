@@ -1,0 +1,22 @@
+{
+  "Group": "com.echochambers",
+  "Name": "EchoDriveCharger",
+  "Version": "${version}",
+  "Description": "${description}",
+  "Authors": [
+    {
+      "Name": "Danny"
+    },
+    {
+      "Name": "Tate"
+    },
+    {
+      "Name": "Joseph"
+    }
+  ],
+  "Main": "com.echochambers.EchoDrivePlugin",
+  "ServerVersion": "*",
+  "Dependencies": {},
+  "OptionalDependencies": {},
+  "DisabledByDefault": false
+}
